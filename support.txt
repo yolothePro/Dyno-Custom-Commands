@@ -1,0 +1,3 @@
+{delete}
+{!announce {#channelname} {user} requested support at {channel}, Staff Make sure to help him!
+Details:$1+}
